@@ -1,0 +1,16 @@
+class StarCookie:
+    def __init__(self):
+        print("The code is ready..")
+        pass
+
+star_cookie1 = StarCookie()
+star_cookie1.weight = 15
+star_cookie1.color = "Red"
+print(star_cookie1.weight)
+print(star_cookie1.color)
+
+star_cookie2 = StarCookie()
+star_cookie2.weight = 16
+star_cookie2.color = "Blue"
+print(star_cookie2.weight)
+print(star_cookie2.color)
