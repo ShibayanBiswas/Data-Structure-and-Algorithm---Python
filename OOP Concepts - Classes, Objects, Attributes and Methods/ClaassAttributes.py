@@ -1,5 +1,3 @@
-# Class Attributes - Example 01
-
 class StarCookie:
     price = 50
 
@@ -26,7 +24,6 @@ print(star_cookie2.__dict__)
 
 
 
-# Class Attributes - Example 02
 
 class Youtube:
     def __init__(self, username, subscribers=0):
