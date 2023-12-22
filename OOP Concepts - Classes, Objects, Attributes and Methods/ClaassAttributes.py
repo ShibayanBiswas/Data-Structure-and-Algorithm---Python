@@ -24,7 +24,6 @@ print(star_cookie2.__dict__)
 
 
 
-
 class Youtube:
     def __init__(self, username, subscribers=0):
         self.username = username
