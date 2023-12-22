@@ -1,5 +1,3 @@
-# Classes
-
 class StarCookie:
     def __init__(self):
         print("The code is ready..")
